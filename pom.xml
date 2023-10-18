@@ -10,7 +10,6 @@
     <version>1.0-SNAPSHOT</version>
     <modules>
         <module>thread-demo</module>
-        <module>designpatterns-demo</module>
         <module>lambda-demo</module>
         <module>enum-demo</module>
         <module>annotation-demo</module>
@@ -18,6 +17,7 @@
         <module>http-dynamic-server</module>
         <module>classloader-demo</module>
         <module>reflect-demo</module>
+        <module>designmode-demo</module>
     </modules>
 
 
